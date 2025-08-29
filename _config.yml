@@ -1,5 +1,2 @@
-theme: jekyll-theme-cayman
-collections:
-  pages:
-    output: true
-    permalink: /:path/
+title: Kaden Tang
+theme: jekyll-theme-minimal
