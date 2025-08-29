@@ -4,8 +4,8 @@
 ![AI fitness trainer](assets\img\form_friend.png)  
 [DevPost](https://devpost.com/software/formfriend-vbw2et)  
 AI personal trainer that provides real-time exercise form analysis and generates personalized workout plans.
-Integrated TensorFlow's MoveNet model into a ReactJS web app to track 17 key body joints for 12+ exercises, applying pose estimation techniques to deliver visual feedback and posture correction at 30+ FPS.
-Built a conversational AI coach using Vapi and Google Gemini that generates personalized workout plans tailored to user goals, health conditions, and available equipment, achieving less than 1 second latency.
+Integrated TensorFlow's MoveNet model into a ReactJS web app to track key body joints for 12+ exercises, applying pose estimation techniques to deliver visual feedback and posture correction at 30+ FPS.
+Built a conversational AI coach using Vapi and Google Gemini that develops workout plans tailored to user goals, health conditions, and available equipment.
 
 ## Stat 20 Tutor
 ![Stat 20 Tutor](assets\img\stat20_tutor.png)
